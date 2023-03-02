@@ -1,2 +1,2 @@
 # hub-manager
-The manager data pack for the MCT Hub
+The manager sub-data pack for the MCT Hub

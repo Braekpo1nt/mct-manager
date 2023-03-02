@@ -1,6 +1,6 @@
 # mct-game-manager
+The manager sub-data pack for managing the logical flow of the entire MCT event
 
-- Manages the logical flow of the entire event
 - Responsible for starting, pausing, and stopping the other games
 - Responsible for keeping track of which games have been played already
 - Diables and enables other data packs when appropriate

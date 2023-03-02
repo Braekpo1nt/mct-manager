@@ -1,2 +1,2 @@
 # score-manager
-The manager data pack for the MCT scoring system
+The manager sub-data pack for the MCT scoring system
