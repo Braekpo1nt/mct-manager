@@ -1,5 +1,5 @@
 {
     "values": [ 
-        "mct-template:load"
+        "mct-manager:load"
     ]
 }
